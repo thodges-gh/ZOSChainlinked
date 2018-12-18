@@ -1,0 +1,17 @@
+{
+  "name": "ZOSChainlinked",
+  "version": "1.0.0",
+  "description": "The Chainlinked contract on ZeppelinOS",
+  "author": "Thomas Hodges (thomas@smartcontract.com)",
+  "license": "MIT",
+  "files": [
+    "build",
+    "contracts",
+    "zos.json",
+    "zos.*.json"
+  ],
+  "dependencies": {
+    "chainlink": "github:smartcontractkit/chainlink",
+    "zos-lib": "^2.0.1"
+  }
+}
